@@ -1,0 +1,96 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "should allow user to login ",
+    "uid" : "d9cadf146e809be8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1601240994124,
+      "stop" : 1601240995598,
+      "duration" : 1474
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.121" ]
+  }, {
+    "name" : "should validate the message after login ",
+    "uid" : "bbe6ffc9341dad84",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1601240995598,
+      "stop" : 1601240995625,
+      "duration" : 27
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.121" ]
+  }, {
+    "name" : "Performing a search operation",
+    "uid" : "9b38071e7b763805",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1601240996582,
+      "stop" : 1601240998011,
+      "duration" : 1429
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.121" ]
+  }, {
+    "name" : "searching Selenium Webdriver",
+    "uid" : "40b3e6041dd14199",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1601240998011,
+      "stop" : 1601241002144,
+      "duration" : 4133
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.121" ]
+  }, {
+    "name" : "checkbox 2 should be enabled",
+    "uid" : "88b9e1cd0bf050aa",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1601241003100,
+      "stop" : 1601241004072,
+      "duration" : 972
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.121" ]
+  }, {
+    "name" : "checkbox 1 should be enabled after clicking on it",
+    "uid" : "898b41c2ccd22691",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1601241004072,
+      "stop" : 1601241004305,
+      "duration" : 233
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.121" ]
+  }, {
+    "name" : "should be an button on the page",
+    "uid" : "84859c0a49ac9382",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1601241005237,
+      "stop" : 1601241011226,
+      "duration" : 5989
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.121" ]
+  } ]
+}

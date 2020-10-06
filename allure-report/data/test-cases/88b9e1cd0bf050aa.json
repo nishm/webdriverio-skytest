@@ -1,0 +1,101 @@
+{
+  "uid" : "88b9e1cd0bf050aa",
+  "name" : "checkbox 2 should be enabled",
+  "fullName" : "checkboxes.checkbox 2 should be enabled",
+  "historyId" : "93adaeaf1f5e7f997feedde551c81f1a",
+  "time" : {
+    "start" : 1601241003100,
+    "stop" : 1601241004072,
+    "duration" : 972
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "checkboxes"
+  }, {
+    "name" : "testClass",
+    "value" : "checkboxes"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkbox 2 should be enabled"
+  }, {
+    "name" : "package",
+    "value" : "checkboxes"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "42986a5a96108e90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601240791341,
+        "stop" : 1601240792268,
+        "duration" : 927
+      }
+    }, {
+      "uid" : "712d9875d89c0a11",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601240688601,
+        "stop" : 1601240689710,
+        "duration" : 1109
+      }
+    }, {
+      "uid" : "ca430f25fd0c3edb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601240604425,
+        "stop" : 1601240605378,
+        "duration" : 953
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "4c8afd08f26397cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601240791341,
+          "stop" : 1601240792268,
+          "duration" : 927
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "88b9e1cd0bf050aa.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

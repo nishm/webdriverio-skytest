@@ -1,0 +1,102 @@
+{
+  "uid" : "40b3e6041dd14199",
+  "name" : "searching Selenium Webdriver",
+  "fullName" : "Performing a search operation on Yahoo Page.searching Selenium Webdriver",
+  "historyId" : "cca8805c232a652b6066084b4a5e9028",
+  "time" : {
+    "start" : 1601240998011,
+    "stop" : 1601241002144,
+    "duration" : 4133
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a search operation on Yahoo Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a search operation on Yahoo Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "searching Selenium Webdriver"
+  }, {
+    "name" : "package",
+    "value" : "Performing a search operation on Yahoo Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e6455fb420e65c57",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601240801908,
+        "stop" : 1601240804956,
+        "duration" : 3048
+      }
+    }, {
+      "uid" : "e70ddd155e3ec1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601240682788,
+        "stop" : 1601240687634,
+        "duration" : 4846
+      }
+    }, {
+      "uid" : "a9606c44b698853b",
+      "status" : "broken",
+      "statusDetails" : "Can't call clearValue on element with selector \"#yschsp\" because element wasn't found",
+      "time" : {
+        "start" : 1601240617729,
+        "stop" : 1601240627764,
+        "duration" : 10035
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "aef5cd015531435a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601240801908,
+          "stop" : 1601240804956,
+          "duration" : 3048
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "40b3e6041dd14199.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

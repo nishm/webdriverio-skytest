@@ -1,0 +1,56 @@
+{
+  "uid" : "71a95692dd36fa7b",
+  "name" : "checkbox 1 should be enabled after clicking on it",
+  "fullName" : "checkboxes.checkbox 1 should be enabled after clicking on it",
+  "historyId" : "be45e54c92a84e2f50cee30989233967",
+  "time" : {
+    "start" : 1601240792268,
+    "stop" : 1601240792507,
+    "duration" : 239
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "checkboxes"
+  }, {
+    "name" : "testClass",
+    "value" : "checkboxes"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkbox 1 should be enabled after clicking on it"
+  }, {
+    "name" : "package",
+    "value" : "checkboxes"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "71a95692dd36fa7b.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

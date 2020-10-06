@@ -1,0 +1,101 @@
+{
+  "uid" : "bbe6ffc9341dad84",
+  "name" : "should validate the message after login ",
+  "fullName" : "Test for herokuapp login page.should validate the message after login ",
+  "historyId" : "3ef792219a9574b1831859dd0e6bb418",
+  "time" : {
+    "start" : 1601240995598,
+    "stop" : 1601240995625,
+    "duration" : 27
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Test for herokuapp login page"
+  }, {
+    "name" : "testClass",
+    "value" : "Test for herokuapp login page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should validate the message after login "
+  }, {
+    "name" : "package",
+    "value" : "Test for herokuapp login page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "eff4755174cecc8a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601240790370,
+        "stop" : 1601240790398,
+        "duration" : 28
+      }
+    }, {
+      "uid" : "1bc3a75d06a3b4a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601240699480,
+        "stop" : 1601240699507,
+        "duration" : 27
+      }
+    }, {
+      "uid" : "9c443a4cdec14e96",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601240608117,
+        "stop" : 1601240608146,
+        "duration" : 29
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "da0eead209f63002",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601240790370,
+          "stop" : 1601240790398,
+          "duration" : 28
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "bbe6ffc9341dad84.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

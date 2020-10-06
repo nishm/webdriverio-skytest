@@ -1,0 +1,56 @@
+{
+  "uid" : "f99ce267ff65a608",
+  "name" : "should be an button on the page",
+  "fullName" : "dynamic loading.should be an button on the page",
+  "historyId" : "78184ddfd966a4fed8a7172721da51ce",
+  "time" : {
+    "start" : 1601240609088,
+    "stop" : 1601240615308,
+    "duration" : 6220
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "dynamic loading"
+  }, {
+    "name" : "testClass",
+    "value" : "dynamic loading"
+  }, {
+    "name" : "testMethod",
+    "value" : "should be an button on the page"
+  }, {
+    "name" : "package",
+    "value" : "dynamic loading"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f99ce267ff65a608.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

@@ -1,0 +1,192 @@
+{
+  "d831043a301f777d9fc650a4e8090e8a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "d9cadf146e809be8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601240994124,
+        "stop" : 1601240995598,
+        "duration" : 1474
+      }
+    }, {
+      "uid" : "eb57c19e27438003",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601240788808,
+        "stop" : 1601240790370,
+        "duration" : 1562
+      }
+    } ]
+  },
+  "be45e54c92a84e2f50cee30989233967" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "898b41c2ccd22691",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601241004072,
+        "stop" : 1601241004305,
+        "duration" : 233
+      }
+    }, {
+      "uid" : "7050969be23439bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601240792268,
+        "stop" : 1601240792507,
+        "duration" : 239
+      }
+    } ]
+  },
+  "3ef792219a9574b1831859dd0e6bb418" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "bbe6ffc9341dad84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601240995598,
+        "stop" : 1601240995625,
+        "duration" : 27
+      }
+    }, {
+      "uid" : "da0eead209f63002",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601240790370,
+        "stop" : 1601240790398,
+        "duration" : 28
+      }
+    } ]
+  },
+  "93adaeaf1f5e7f997feedde551c81f1a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "88b9e1cd0bf050aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601241003100,
+        "stop" : 1601241004072,
+        "duration" : 972
+      }
+    }, {
+      "uid" : "4c8afd08f26397cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601240791341,
+        "stop" : 1601240792268,
+        "duration" : 927
+      }
+    } ]
+  },
+  "cca8805c232a652b6066084b4a5e9028" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "40b3e6041dd14199",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601240998011,
+        "stop" : 1601241002144,
+        "duration" : 4133
+      }
+    }, {
+      "uid" : "aef5cd015531435a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601240801908,
+        "stop" : 1601240804956,
+        "duration" : 3048
+      }
+    } ]
+  },
+  "78184ddfd966a4fed8a7172721da51ce" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "84859c0a49ac9382",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601241005237,
+        "stop" : 1601241011226,
+        "duration" : 5989
+      }
+    }, {
+      "uid" : "42dbdeaf0399cca8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601240793426,
+        "stop" : 1601240799428,
+        "duration" : 6002
+      }
+    } ]
+  },
+  "182ad13153a1a100030beab6c5278e28" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "9b38071e7b763805",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601240996582,
+        "stop" : 1601240998011,
+        "duration" : 1429
+      }
+    }, {
+      "uid" : "f164e222a93a723",
+      "status" : "failed",
+      "statusDetails" : "'Yahoo is now a part of Verizon Media' == 'Yahoo Search - Web Search'",
+      "time" : {
+        "start" : 1601240800373,
+        "stop" : 1601240801908,
+        "duration" : 1535
+      }
+    } ]
+  }
+}

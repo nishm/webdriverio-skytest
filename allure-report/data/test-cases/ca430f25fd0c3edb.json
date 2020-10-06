@@ -1,0 +1,56 @@
+{
+  "uid" : "ca430f25fd0c3edb",
+  "name" : "checkbox 2 should be enabled",
+  "fullName" : "checkboxes.checkbox 2 should be enabled",
+  "historyId" : "93adaeaf1f5e7f997feedde551c81f1a",
+  "time" : {
+    "start" : 1601240604425,
+    "stop" : 1601240605378,
+    "duration" : 953
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "checkboxes"
+  }, {
+    "name" : "testClass",
+    "value" : "checkboxes"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkbox 2 should be enabled"
+  }, {
+    "name" : "package",
+    "value" : "checkboxes"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ca430f25fd0c3edb.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

@@ -1,0 +1,56 @@
+{
+  "uid" : "26b4bb5076ae336b",
+  "name" : "should allow user to login ",
+  "fullName" : "Test for herokuapp login page.should allow user to login ",
+  "historyId" : "d831043a301f777d9fc650a4e8090e8a",
+  "time" : {
+    "start" : 1601240788808,
+    "stop" : 1601240790370,
+    "duration" : 1562
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Test for herokuapp login page"
+  }, {
+    "name" : "testClass",
+    "value" : "Test for herokuapp login page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should allow user to login "
+  }, {
+    "name" : "package",
+    "value" : "Test for herokuapp login page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "26b4bb5076ae336b.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

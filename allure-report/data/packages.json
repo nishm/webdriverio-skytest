@@ -1,0 +1,112 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Test for herokuapp login page",
+    "children" : [ {
+      "name" : "should allow user to login ",
+      "uid" : "d9cadf146e809be8",
+      "parentUid" : "cebfd426bb15113ea318f6228fd1b90d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601240994124,
+        "stop" : 1601240995598,
+        "duration" : 1474
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "should validate the message after login ",
+      "uid" : "bbe6ffc9341dad84",
+      "parentUid" : "cebfd426bb15113ea318f6228fd1b90d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601240995598,
+        "stop" : 1601240995625,
+        "duration" : 27
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    } ],
+    "uid" : "cebfd426bb15113ea318f6228fd1b90d"
+  }, {
+    "name" : "Performing a search operation on Yahoo Page",
+    "children" : [ {
+      "name" : "Performing a search operation",
+      "uid" : "9b38071e7b763805",
+      "parentUid" : "78c223bb4b11590958a1425ac0e978ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601240996582,
+        "stop" : 1601240998011,
+        "duration" : 1429
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "searching Selenium Webdriver",
+      "uid" : "40b3e6041dd14199",
+      "parentUid" : "78c223bb4b11590958a1425ac0e978ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601240998011,
+        "stop" : 1601241002144,
+        "duration" : 4133
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    } ],
+    "uid" : "78c223bb4b11590958a1425ac0e978ab"
+  }, {
+    "name" : "checkboxes",
+    "children" : [ {
+      "name" : "checkbox 2 should be enabled",
+      "uid" : "88b9e1cd0bf050aa",
+      "parentUid" : "f4923586c79598905a4a354bd4be8bf4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601241003100,
+        "stop" : 1601241004072,
+        "duration" : 972
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    }, {
+      "name" : "checkbox 1 should be enabled after clicking on it",
+      "uid" : "898b41c2ccd22691",
+      "parentUid" : "f4923586c79598905a4a354bd4be8bf4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601241004072,
+        "stop" : 1601241004305,
+        "duration" : 233
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    } ],
+    "uid" : "f4923586c79598905a4a354bd4be8bf4"
+  }, {
+    "name" : "dynamic loading",
+    "children" : [ {
+      "name" : "should be an button on the page",
+      "uid" : "84859c0a49ac9382",
+      "parentUid" : "6a596d04a63cdee5c5ccb15b0adcf974",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601241005237,
+        "stop" : 1601241011226,
+        "duration" : 5989
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-85.0.4183.121" ]
+    } ],
+    "uid" : "6a596d04a63cdee5c5ccb15b0adcf974"
+  } ]
+}

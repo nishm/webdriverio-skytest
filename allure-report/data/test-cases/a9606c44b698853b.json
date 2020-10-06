@@ -1,0 +1,58 @@
+{
+  "uid" : "a9606c44b698853b",
+  "name" : "searching Selenium Webdriver",
+  "fullName" : "Performing a search operation on Yahoo Page.searching Selenium Webdriver",
+  "historyId" : "cca8805c232a652b6066084b4a5e9028",
+  "time" : {
+    "start" : 1601240617729,
+    "stop" : 1601240627764,
+    "duration" : 10035
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Can't call clearValue on element with selector \"#yschsp\" because element wasn't found",
+  "statusTrace" : "Error: Can't call clearValue on element with selector \"#yschsp\" because element wasn't found\n                    at YahooPage.enterText (/Users/nishanth/Code/Technical_QA_Tests/webdriverIO-with-mochaBDD/test/pageobjects/yahoo-search.page.js:22:22)\n                    at Context.<anonymous> (/Users/nishanth/Code/Technical_QA_Tests/webdriverIO-with-mochaBDD/test/specs/yahoo-search-test.spec.js:16:15)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a search operation on Yahoo Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a search operation on Yahoo Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "searching Selenium Webdriver"
+  }, {
+    "name" : "package",
+    "value" : "Performing a search operation on Yahoo Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a9606c44b698853b.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

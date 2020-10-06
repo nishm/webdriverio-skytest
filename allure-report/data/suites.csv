@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Sep 27 22:10:04 BST 2020","Sun Sep 27 22:10:04 BST 2020","233","","checkboxes","","checkboxes","checkbox 1 should be enabled after clicking on it","checkbox 1 should be enabled after clicking on it",""
+"passed","Sun Sep 27 22:09:55 BST 2020","Sun Sep 27 22:09:55 BST 2020","27","","Test for herokuapp login page","","Test for herokuapp login page","should validate the message after login ","should validate the message after login ",""
+"passed","Sun Sep 27 22:09:54 BST 2020","Sun Sep 27 22:09:55 BST 2020","1474","","Test for herokuapp login page","","Test for herokuapp login page","should allow user to login ","should allow user to login ",""
+"passed","Sun Sep 27 22:09:58 BST 2020","Sun Sep 27 22:10:02 BST 2020","4133","","Performing a search operation on Yahoo Page","","Performing a search operation on Yahoo Page","searching Selenium Webdriver","searching Selenium Webdriver",""
+"passed","Sun Sep 27 22:10:03 BST 2020","Sun Sep 27 22:10:04 BST 2020","972","","checkboxes","","checkboxes","checkbox 2 should be enabled","checkbox 2 should be enabled",""
+"passed","Sun Sep 27 22:10:05 BST 2020","Sun Sep 27 22:10:11 BST 2020","5989","","dynamic loading","","dynamic loading","should be an button on the page","should be an button on the page",""
+"passed","Sun Sep 27 22:09:56 BST 2020","Sun Sep 27 22:09:58 BST 2020","1429","","Performing a search operation on Yahoo Page","","Performing a search operation on Yahoo Page","Performing a search operation","Performing a search operation",""

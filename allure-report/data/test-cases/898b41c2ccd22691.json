@@ -1,0 +1,101 @@
+{
+  "uid" : "898b41c2ccd22691",
+  "name" : "checkbox 1 should be enabled after clicking on it",
+  "fullName" : "checkboxes.checkbox 1 should be enabled after clicking on it",
+  "historyId" : "be45e54c92a84e2f50cee30989233967",
+  "time" : {
+    "start" : 1601241004072,
+    "stop" : 1601241004305,
+    "duration" : 233
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "checkboxes"
+  }, {
+    "name" : "testClass",
+    "value" : "checkboxes"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkbox 1 should be enabled after clicking on it"
+  }, {
+    "name" : "package",
+    "value" : "checkboxes"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "71a95692dd36fa7b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601240792268,
+        "stop" : 1601240792507,
+        "duration" : 239
+      }
+    }, {
+      "uid" : "c083a62378067323",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601240689711,
+        "stop" : 1601240689938,
+        "duration" : 227
+      }
+    }, {
+      "uid" : "1d56c7d381d8649f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601240605378,
+        "stop" : 1601240605608,
+        "duration" : 230
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "7050969be23439bd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601240792268,
+          "stop" : 1601240792507,
+          "duration" : 239
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "898b41c2ccd22691.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

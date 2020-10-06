@@ -1,0 +1,58 @@
+{
+  "uid" : "5b2de2df5472232a",
+  "name" : "Performing a search operation",
+  "fullName" : "Performing a search operation on Yahoo Page.Performing a search operation",
+  "historyId" : "182ad13153a1a100030beab6c5278e28",
+  "time" : {
+    "start" : 1601240800373,
+    "stop" : 1601240801908,
+    "duration" : 1535
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "'Yahoo is now a part of Verizon Media' == 'Yahoo Search - Web Search'",
+  "statusTrace" : "AssertionError [ERR_ASSERTION]: 'Yahoo is now a part of Verizon Media' == 'Yahoo Search - Web Search'\n                    at Context.<anonymous> (/Users/nishanth/Code/Technical_QA_Tests/webdriverIO-with-mochaBDD/test/specs/yahoo-search-test.spec.js:12:12)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a search operation on Yahoo Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a search operation on Yahoo Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Performing a search operation"
+  }, {
+    "name" : "package",
+    "value" : "Performing a search operation on Yahoo Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5b2de2df5472232a.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}
