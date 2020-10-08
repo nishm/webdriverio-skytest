@@ -35,7 +35,8 @@ describe('This feature will make sure that the shop page is navigable and usable
       describe('And I click on ‘Our latest Offers’ section', () => {
         it('Then I see a list of offers with a price to it', () => {
           productspage.navigateToLatestOffers();          
-          var prices = bundlesPage.getListOfOfferPrices();          
+          var prices = bundlesPage.getListOfOfferPrices(); 
+          assert(prices != null)            
           console.log(prices)
         });
       });

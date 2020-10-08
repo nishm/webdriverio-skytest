@@ -1,10 +1,5 @@
 import Page from './page'
-import assert from 'assert';
-import chai from 'chai';
-
-import { waitUntilelement } from '../../utilities/test-helper.js'
 import * as helperUtils from '../../utilities/test-helper.js'
-
 
 
 class ProductsPage extends Page {
@@ -13,9 +8,8 @@ class ProductsPage extends Page {
     get productsCollection() { return $('[class="c-tile__body c-tile__caption"]').$('.c-tile__title') }
 
     open() {
-        super.open('login')    
+        super.open('login')
     }
-
 
     waitForLandingPageToLoad() {
         if (!this.headerMessage.isDisplayed()) {
@@ -25,22 +19,20 @@ class ProductsPage extends Page {
 
     getProductsAndPackages() {
         const productTitlesSelector = $('[class="c-tile__body c-tile__caption"]');
-        helperUtils.waitUntilelement(productTitlesSelector);        
+        helperUtils.waitUntilelement(productTitlesSelector);
         const productTitles = $$('[class="c-tile__body c-tile__caption"]')
 
         let actualTitles = [];
         for (let i = 0; i < productTitles.length; i++) {
             actualTitles.push(productTitles[i].getText());
         }
-
-        return actualTitles;        
-
+        return actualTitles;
     }
 
     navigateToLatestOffers() {
-        const link = $('=Our latest offers')        
-            link.click();        
-        this.headerMessage.waitForExist({ timeout: 6000 });        
+        const link = $('=Our latest offers')
+        link.click();
+        this.headerMessage.waitForExist({ timeout: 6000 });
     }
 
 

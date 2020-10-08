@@ -22,7 +22,7 @@ class HomePage extends Page {
 
     handleCookiesAlert() {
         const my_frame = $('[id="sp_message_iframe_207015"]');
-        browser.waitUntil(() => my_frame.isFocused(), 5000, "Expected frame is not displayed");
+        browser.waitUntil(() => my_frame.isFocused(), 8000, "Expected frame is not displayed");
         browser.switchToFrame(my_frame);
         var elem = $('button:nth-child(2)');
         elem.click();
@@ -39,8 +39,8 @@ class HomePage extends Page {
     }
 
     navigateToProductsAndPackages() {
-        const link = $('=Products & Packages')         
-        link.click();        
+        const link = $('=Products & Packages')
+        link.click();
     }
 
     clickOnSearch() {
@@ -56,8 +56,7 @@ class HomePage extends Page {
     searchContentOnSky(value) {
         this.clickOnSearch();
         this.searchSky(value);
-        this.searchResultsContainer.waitForDisplayed(3000);
-        assert.notDeepStrictEqual(this.searchResultsContainer.getText, "Sky")
+        this.searchResultsContainer.waitForDisplayed(5000);
 
     }
 
